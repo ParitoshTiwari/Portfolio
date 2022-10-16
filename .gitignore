@@ -35,6 +35,8 @@ MyPortfolio/MyPortfolio/[Oo]bj/
 [Ll]ogs/
 .vs/
 Portfolio/MyPortfolio/.vs/
+/bin
+/obj
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
