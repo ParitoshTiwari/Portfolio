@@ -11,6 +11,7 @@
       "Blazorise.Bootstrap.dll": "sha256-la0gClF43fi8qRCnmqN8MpocILsw4YQRJnaNfwWnpaA=",
       "Blazorise.Charts.dll": "sha256-\/fQLa9o\/+XLiHaaWqfcQjLrHMV48MFCty\/J\/IWgGtyU=",
       "Blazorise.Icons.FontAwesome.dll": "sha256-Zl1BimBPCvmDW9BRJDDa7wKETwfnT63Yu3pRu+aEylE=",
+      "Blazorise.QRCode.dll": "sha256-V0Eoj1f5m3WG7CXs1WjI5VJ\/+YD2DUDiakrJyaMNbPo=",
       "Lambda2Js.dll": "sha256-A1nBjw6DkrgJNmrUGUk9d7mZ8JLcPUDPfAlXZ9eAuEc=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-HG+bnQWiEA1\/F6r\/8GQWduuLOyXyKN99vVSdpwio0zA=",
       "Microsoft.AspNetCore.Components.dll": "sha256-aJkTDmfPVpkW57SUuoxuimwnL7hXtTTmrPu2e\/VSnJU=",
@@ -34,6 +35,7 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-jOmoWSfsdQexH\/6QCA56gR1RMEqeix2iDDUBWbpAOQI=",
       "Microsoft.JSInterop.dll": "sha256-DYwefUqbLHR02Eeg0D\/cGM+B8n21ZVDcFqn8qvoO77U=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-9fmAKBOzIs7ySpwatFoAUhMgaJtTQvGN5+TArCHX9QE=",
+      "QRCoder.dll": "sha256-b8A2KqWamt+7PUp3wiXG0hPTtBMFwGOBOE24dZApTJY=",
       "System.IO.Pipelines.dll": "sha256-6+E55JXedimdw1c1bDtVg4K7XuWjVWVTifH8QpfzXSY=",
       "Microsoft.CSharp.dll": "sha256-vQI17SrfTJckI\/jSEDgWkczMgznxgPfZ30+RelRLGQk=",
       "Microsoft.VisualBasic.Core.dll": "sha256-9LLLoUznoJQJkFXhqjm0046DM5H5HOglyvjabkTaxIo=",
@@ -201,13 +203,13 @@
       "mscorlib.dll": "sha256-Q4A\/043fz702a7DDbm+JAtMHV3jKAZ9k8khztTMKp2M=",
       "netstandard.dll": "sha256-W9cwgVmBZsddVw3WVFMC5Gya92UufvbVTNR4+u7pnR0=",
       "System.Private.CoreLib.dll": "sha256-KVnZkFos\/ML\/3S2isVijfmFZXO4zEQeCga6BZvGdTbY=",
-      "MyPortfolio.dll": "sha256-1GHof\/FI3cwyTtZSxY\/ueIkaNx3zQXbrXqm\/NVTBMZc="
+      "MyPortfolio.dll": "sha256-ezOsg2bkafY\/plYy9V1qj4rE6oh+aYctX6KAswjr9ns="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "MyPortfolio.pdb": "sha256-kMc\/Rc0iO9f9BmFLPx8cop2YmeiciP\/uiQcTMnC+yLI="
+      "MyPortfolio.pdb": "sha256-C06HRWYgadbZPCk\/xebvRrMzJxRXzl93ZRzgXQJKsYY="
     },
     "runtime": {
       "dotnet.6.0.4.3gep0e7u6a.js": "sha256-WYno\/cK5MDsl5yi4T\/\/QgUskbBfhLL77i+c0uKzO9+c=",

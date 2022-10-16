@@ -1,0 +1,22 @@
+﻿@page "/ContactMe"
+<h3>Contact Me</h3>
+
+<ListGroup>
+    <ListGroupItem>Phone Number: +1 (945) 208-4317</ListGroupItem>
+    <ListGroupItem>Email: paritosh.tiwari@utdallas.edu; paritosh1.tiwari@gmail.com</ListGroupItem>
+    <ListGroupItem>Github: <a href="https://github.com/ParitoshTiwari">Github Link</a></ListGroupItem>
+    <ListGroupItem>Stack Overflow: <a href="https://stackoverflow.com/users/14934809/paritosh-tiwari">Stack Overflow Link</a></ListGroupItem>
+</ListGroup>
+
+LinkedIn: <QRCode Value="https://www.linkedin.com/in/paritosh-tiwari/" Alt="QRCode image" />
+Resume: 
+<Figure Size="FigureSize.Is256x256">
+<FigureImage Source="@resume"></FigureImage>
+</Figure>
+@code {
+
+    /// <summary>
+    /// The resume
+    /// </summary>
+    public string resume = "./Images/Resume.png";
+}

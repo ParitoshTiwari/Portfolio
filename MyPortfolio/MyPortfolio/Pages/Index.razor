@@ -13,6 +13,7 @@
                     Currently I am in my first year and learning Business Analytics with R, Advance Statistics and Business Analysis and Database foundations for
                     Business analytics.
                 </CardText>
+                <Button Clicked="() => Contact()" Color=Color.Secondary>Know More</Button>
             </CardBody>
         </Card>
     </Column>
@@ -25,6 +26,7 @@
                     I have 4.3 years of working experience as a Software Developer at Fidelity National Financial, India where
                     I have worked on multiple projects involving Microsoft Technologies.
                 </CardText>
+                <Button Clicked="() => Experience()" Color=Color.Secondary>Know More</Button>
             </CardBody>
         </Card>
     </Column>
@@ -67,4 +69,17 @@
     /// To display Pool Image
     /// </summary>
     public string poolImage = "./Images/EightBallPool.jpg";
+
+    [Inject]
+    public NavigationManager environmentNavigationManager { get; set; }
+
+    public async Task Contact() 
+    {
+        this.environmentNavigationManager.NavigateTo("ContactMe");
+    }
+
+    public async Task Experience()
+    {
+        this.environmentNavigationManager.NavigateTo("MyProjects");
+    }
 }

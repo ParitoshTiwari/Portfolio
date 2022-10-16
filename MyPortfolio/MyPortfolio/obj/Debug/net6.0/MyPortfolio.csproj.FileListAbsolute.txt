@@ -833,3 +833,11 @@ C:\Ambitions\Portfolio\MyPortfolio\MyPortfolio\obj\Debug\net6.0\MyPortfolio.dll
 C:\Ambitions\Portfolio\MyPortfolio\MyPortfolio\obj\Debug\net6.0\refint\MyPortfolio.dll
 C:\Ambitions\Portfolio\MyPortfolio\MyPortfolio\obj\Debug\net6.0\MyPortfolio.pdb
 C:\Ambitions\Portfolio\MyPortfolio\MyPortfolio\obj\Debug\net6.0\ref\MyPortfolio.dll
+C:\Ambitions\Portfolio\MyPortfolio\MyPortfolio\bin\Debug\net6.0\wwwroot\_framework\Blazorise.QRCode.dll
+C:\Ambitions\Portfolio\MyPortfolio\MyPortfolio\bin\Debug\net6.0\wwwroot\_framework\QRCoder.dll
+C:\Ambitions\Portfolio\MyPortfolio\MyPortfolio\bin\Debug\net6.0\wwwroot\_framework\QRCoder.dll.gz
+C:\Ambitions\Portfolio\MyPortfolio\MyPortfolio\bin\Debug\net6.0\wwwroot\_framework\Blazorise.QRCode.dll.gz
+C:\Ambitions\Portfolio\MyPortfolio\MyPortfolio\bin\Debug\net6.0\Blazorise.QRCode.dll
+C:\Ambitions\Portfolio\MyPortfolio\MyPortfolio\bin\Debug\net6.0\QRCoder.dll
+C:\Ambitions\Portfolio\MyPortfolio\MyPortfolio\obj\Debug\net6.0\build-gz\pZAaLYOS.gz
+C:\Ambitions\Portfolio\MyPortfolio\MyPortfolio\obj\Debug\net6.0\build-gz\J2sU+rZ+.gz

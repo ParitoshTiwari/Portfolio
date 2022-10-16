@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "b7Sqm/ikyvEgSOgwPH5MntcxAUZLpIXob6pmo4BqpNk53BvOBjwNy2jf5bjWVelFQD++4Cf39fOF0uD8H59OUg==",
+  "dgSpecHash": "dmYSXxCEtffd0PqWEHnkMpr2kwzDV1o4Y73WQ1G2XY/4hr9AAhx85lm7/n7j5Df3l/uV8YbjsmA/h4jzc7Bhtw==",
   "success": true,
   "projectFilePath": "C:\\Ambitions\\Portfolio\\MyPortfolio\\MyPortfolio\\MyPortfolio.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\Parit\\.nuget\\packages\\blazorise.bootstrap\\1.1.1\\blazorise.bootstrap.1.1.1.nupkg.sha512",
     "C:\\Users\\Parit\\.nuget\\packages\\blazorise.charts\\1.1.1\\blazorise.charts.1.1.1.nupkg.sha512",
     "C:\\Users\\Parit\\.nuget\\packages\\blazorise.icons.fontawesome\\1.1.1\\blazorise.icons.fontawesome.1.1.1.nupkg.sha512",
+    "C:\\Users\\Parit\\.nuget\\packages\\blazorise.qrcode\\1.1.1\\blazorise.qrcode.1.1.1.nupkg.sha512",
     "C:\\Users\\Parit\\.nuget\\packages\\lambda2js\\3.1.3\\lambda2js.3.1.3.nupkg.sha512",
     "C:\\Users\\Parit\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.9\\microsoft.aspnetcore.authorization.6.0.9.nupkg.sha512",
     "C:\\Users\\Parit\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.9\\microsoft.aspnetcore.components.6.0.9.nupkg.sha512",
@@ -37,6 +38,7 @@
     "C:\\Users\\Parit\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Parit\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Parit\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
+    "C:\\Users\\Parit\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512",
     "C:\\Users\\Parit\\.nuget\\packages\\runtime.any.system.collections\\4.3.0\\runtime.any.system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\Parit\\.nuget\\packages\\runtime.any.system.diagnostics.tools\\4.3.0\\runtime.any.system.diagnostics.tools.4.3.0.nupkg.sha512",
     "C:\\Users\\Parit\\.nuget\\packages\\runtime.any.system.diagnostics.tracing\\4.3.0\\runtime.any.system.diagnostics.tracing.4.3.0.nupkg.sha512",

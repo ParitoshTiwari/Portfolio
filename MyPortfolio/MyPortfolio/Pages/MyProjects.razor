@@ -1,7 +1,86 @@
 ﻿@page "/MyProjects"
 
-"Hey there"
+<Row Height=Height.Is25>
+    <Column ColumnSize=ColumnSize.Is6.OnDesktop.Is12.OnMobile>
+        <Card>
+            <Figure Size=FigureSize.Is256x256>
+                <FigureImage Source="@loancareImage"></FigureImage>
+            </Figure>
+            <CardBody> 
+                <CardTitle Size="5">Loancare Project</CardTitle>
+                <CardText Style="word-wrap: break-word;">
+                    I have worked on automating the ALT3270 tool COM component by adding a VBScript screen for Escrow setup,
+                    new loan setup and financial repayments with negligible bugs and automating BPO work decreasing the processing
+                    time from 22mins to 7mins.
+                </CardText>
+            </CardBody>
+        </Card>
+    </Column>
+    <Column ColumnSize=ColumnSize.Is6.OnDesktop.Is12.OnMobile>
+        <Card>
+            <Figure Size=FigureSize.Is256x256>
+                <FigureImage Source="@softproImage"></FigureImage>
+            </Figure>
+            <CardBody>
+                <CardTitle Size="5">Softpro</CardTitle>
+                <CardText>
+                    Worked on Settlement Services, Underwriter service and Critical Software Issues fixes. Worked on
+                    projects like Exacta, CATIC, Skyline lien search integration with Softpro 360 system.
+                </CardText>
+            </CardBody>
+        </Card>
+    </Column>
+</Row>
+<Row Height=Height.Is25>
+    <Column ColumnSize=ColumnSize.Is6.OnDesktop.Is12.OnMobile>
+        <Card>
+            <CardBody>
+                <CardTitle Size="5">Fidelity National Financial, India</CardTitle>
+                    <Figure Size=FigureSize.Is256x256>
+                    <FigureImage Source="@FidelityImage"></FigureImage>
+                </Figure>
+                <CardText>
+                    Worked on Data Analysis on getting the data to provide to machine learning model to optimise the counties
+                    APN data and increased the efficiency of multiple counties to 90% and above.
+                </CardText>
+            </CardBody>
+        </Card>
+    </Column>
+    <Column ColumnSize=ColumnSize.Is6.OnDesktop.Is12.OnMobile>
+        <Card>
+            <CardBody>
+                <CardTitle Size="5">Superior Data Systems</CardTitle>
+                <Figure Size=FigureSize.Is256x256>
+                    <FigureImage Source="@sdsImage"></FigureImage>
+                </Figure>
+                <CardText>
+                    Worked on migrating the VB.NET application to ASP.NET Core and provided solution for complex
+                    problems for Bankruptcy/Patriot search, and worked on outer GBN counties of new york.
+                </CardText>
+            </CardBody>
+        </Card>
+    </Column>
+</Row>
 
 @code {
 
+    /// <summary>
+    /// To Display image of UTD
+    /// </summary>
+    public string loancareImage = "./Images/loancare.jpg";
+
+    /// <summary>
+    /// To Display Fidelity Image
+    /// </summary>
+    public string softproImage = "./Images/softpro.png";
+
+    /// <summary>
+    /// To display Pool Image
+    /// </summary>
+    public string sdsImage = "./Images/sds.jpg";
+
+    /// <summary>
+    /// To Display Fidelity Image
+    /// </summary>
+    public string FidelityImage = "./Images/fid.jpg";
 }
