@@ -3,7 +3,7 @@
 <PageTitle>Portfolio</PageTitle>
 
 <Row Height=Height.Is25>
-    <Column ColumnSize=ColumnSize.Is6>
+    <Column ColumnSize=ColumnSize.Is6.OnDesktop.Is12.OnMobile>
         <Card>
             <CardImage Source="@utdImage"></CardImage>
             <CardBody> 
@@ -16,7 +16,7 @@
             </CardBody>
         </Card>
     </Column>
-    <Column ColumnSize=ColumnSize.Is6>
+    <Column ColumnSize=ColumnSize.Is6.OnDesktop.Is12.OnMobile>
         <Card>
             <CardImage Source="@FidelityImage"></CardImage>
             <CardBody>
@@ -29,23 +29,23 @@
         </Card>
     </Column>
     </Row>
-    <Row>
-    <Column ColumnSize=ColumnSize.Is6>
+    <Row Height=Height.Is25>
+    <Column ColumnSize=ColumnSize.Is6.OnDesktop.Is12.OnMobile>
         <Card>
             <CardBody>
                 <CardTitle Size="5">Education Background</CardTitle>
-                <CardText>
                     <EducationChart></EducationChart>
-                </CardText>
             </CardBody>
         </Card>
     </Column>
-    <Column ColumnSize=ColumnSize.Is6>
+    <Column ColumnSize=ColumnSize.Is6.OnDesktop.Is12.OnMobile>
         <Card>
             <CardBody>
                 <CardTitle Size="5">Interests</CardTitle>
+                <CardImage Source="@poolImage" Style="height: 215px;"></CardImage>
                 <CardText>
-                    This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.
+                    My interests include creating innovative solutions with the help of technology. I have great interest in full-stack development and learning
+                    new technologies. I like playing 8-ball pool and bike riding.
                 </CardText>
             </CardBody>
         </Card>
@@ -62,4 +62,9 @@
     /// To Display Fidelity Image
     /// </summary>
     public string FidelityImage = "./Images/fid.jpg";
+
+    /// <summary>
+    /// To display Pool Image
+    /// </summary>
+    public string poolImage = "./Images/EightBallPool.jpg";
 }

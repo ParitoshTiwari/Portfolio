@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "w9TcZq7xWcxUs1m3qU17jm/shIHh9M5vGT/+q2XFtwI=",
+  "Hash": "7oKWcKoEl3xyB7uSVw2yRVeLijQSmeR+S/uWQ0hMo+s=",
   "Source": "MyPortfolio",
   "BasePath": "/",
   "Mode": "Root",
@@ -7240,6 +7240,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\icon-192.png"
+    },
+    {
+      "Identity": "C:\\Ambitions\\Portfolio\\MyPortfolio\\MyPortfolio\\wwwroot\\Images\\EightBallPool.jpg",
+      "SourceId": "MyPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Ambitions\\Portfolio\\MyPortfolio\\MyPortfolio\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "Images/EightBallPool.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\EightBallPool.jpg"
     },
     {
       "Identity": "C:\\Ambitions\\Portfolio\\MyPortfolio\\MyPortfolio\\wwwroot\\Images\\fid.jpg",
