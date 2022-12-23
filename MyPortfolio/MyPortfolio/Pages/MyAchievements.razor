@@ -18,6 +18,21 @@
     <Column ColumnSize=ColumnSize.Is6.OnDesktop.Is12.OnMobile>
         <Card>
             <Figure Size=FigureSize.Is256x256>
+                <FigureImage Source="@azureAIImage"></FigureImage>
+            </Figure>
+            <CardBody>
+                <CardTitle Size="5">Microsoft AI Fundamentals certification</CardTitle>
+                <CardText Style="word-wrap: break-word;">
+                    Achieved the certification on 13 November 2022.
+                </CardText>
+            </CardBody>
+        </Card>
+    </Column>
+</Row>
+<Row Height=Height.Is25>
+    <Column ColumnSize=ColumnSize.Is6.OnDesktop.Is12.OnMobile>
+        <Card>
+            <Figure Size=FigureSize.Is256x256>
                 <FigureImage Source="@FidelityImage"></FigureImage>
             </Figure>
             <CardBody>
@@ -32,7 +47,7 @@
 
 @code {
     /// <summary>
-    /// To display Pool Image
+    /// To display Azure Image
     /// </summary>
     public string azureImage = "./Images/azurefundamentals.jpg";
 
@@ -40,4 +55,9 @@
     /// To Display Fidelity Image
     /// </summary>
     public string FidelityImage = "./Images/fid.jpg";
+
+    /// <summary>
+    /// To Display Azure AI Image
+    /// </summary>
+    public string azureAIImage = "./Images/AzureAI.jpg";
 }
