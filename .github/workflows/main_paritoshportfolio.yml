@@ -51,7 +51,7 @@ jobs:
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v2
         with:
-          app-name: 'paritoshportfolio'
+          app-name: 'paritoshtiwari'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8DD6DF8E91D44955952EFCCD2AC5F70C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_50A5C1AD19B8487AB654D350CED5E7A5 }}
           package: .
