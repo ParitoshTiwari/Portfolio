@@ -10,6 +10,7 @@ MyPortfolio/*.suo
 *.userosscache
 *.sln.docstates
 *.suo
+*.vs
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -35,6 +36,9 @@ MyPortfolio/MyPortfolio/[Oo]bj/
 [Ll]ogs/
 *.vs/
 MyPortfolio/.vs/
+/Paritosh Portfolio/Application/Portfolio/[Bb]in/
+/Paritosh Portfolio/Application/Portfolio/[Oo]bj/
+MyPortfolio/MyPortfolio/[Oo]bj/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
@@ -366,3 +370,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/bin/Debug/net7.0
+/obj
